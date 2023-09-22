@@ -166,3 +166,10 @@ If you're interested, we offer this completely optional extension to the assignm
 Class `SVG_Spark` contains a method that takes a `float[]` array plus file name and writes an SVG image file with a line plot of the values in the array.  You can use this to visualize trends, etc.
 
 ![Average daily temperatures for one year](temps.svg "Average daily temperatures for one year")
+
+
+## Reflection 
+
+    Throughout this assignment, Eva and I met up extensively to collaborate and consult on it together. That worked really well for the both of us; if one of us was stuck, the other could help troubleshoot or think of a new way to tackle a bug or error in the code. I think one aspect of this assignment that was really challenging for me was trying to think outside of the box and approaching the design of a method in a different way. I also had to get used to accounting for edge cases when writing the tests and then writing the methods I would use with them.
+    
+    In the future assignments, I hope to be more efficient with my methods when handling test cases. I feel as though the methods I have now could be more concise if we had more time to work on them, but I'm excited to work on that in future assignments now that I've gotten through this time! I'm proud of how much code we wrote for this though, it's probably more than I've ever written in a week. 

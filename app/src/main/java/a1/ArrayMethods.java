@@ -449,24 +449,7 @@ public class ArrayMethods {
 
     
     public static void main(String[] args) {
-
-        float[] arr = {1.0f, -9999.0f, 3.0f, 2.0f};
-        boolean[] indicatorVariables = {true, false, true, true};
-        System.out.println(mean(arr, indicatorVariables, 0, 4));
-
-        // float[] arr2 = {1.0f, 2.0f, 3.0f, 4.0f};
-        // System.out.println(Arrays.toString(highest(arr2, 0, 4, 2)));
-
-        float[] arr3 = {4.0f, 3.0f};
-        System.out.println((Arrays.toString(lowest(arr3, 0, 2, 3))));
-
-
-
-
-
-
-    
-
+        
     }
    
 }
